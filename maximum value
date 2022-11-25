@@ -1,0 +1,6 @@
+list1=[9,7,3,5,4,2]
+max=list1[0]
+for i in list1:
+  if i>max:
+    max=i
+  print('maximum value',max)
